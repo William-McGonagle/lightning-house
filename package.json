@@ -1,0 +1,27 @@
+{
+  "name": "lightning-house",
+  "version": "0.0.1",
+  "description": "A simple project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William-McGonagle/lightning-house.git"
+  },
+  "keywords": [
+    "Messenger",
+    "IRC"
+  ],
+  "author": "William McGonagle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/William-McGonagle/lightning-house/issues"
+  },
+  "homepage": "https://github.com/William-McGonagle/lightning-house#readme",
+  "dependencies": {
+    "irc": "^0.5.2",
+    "irc-server": "0.0.4"
+  }
+}
